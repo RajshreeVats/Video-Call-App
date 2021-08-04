@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# Video Chat App
+## Preview
 
-This project is created with [Create React App](https://github.com/facebook/create-react-app).
+<img src="" alt="Project Screenshots">
+<img src="" alt="Project Screenshots">
+## Tech Stack
+
+ - Reactjs 
+ - Nodejs
+ - Express
+- WebRtc
+- Socket.io
+- Peerjs
+
+
+## Features
+### Done
+- Connect With 2 or more people
+- Generate call ID
+- Mute/Unmute
+### Working On
+- Live Chat
+- Teams create / Chat
+- Record Meeting
+- User Authenticate
+- Collaborative White board
+
+
+<p align="center">
+	With :heart: &nbsp;by <a href="#" target="_blank">Rajshree Vatsa</a>
+</p>
 
