@@ -2,7 +2,7 @@
 ## Preview
 
 <img src="https://github.com/RajshreeVats/Video-Call-App/blob/master/vdcll.png" alt="Project Screenshots">
-<img src="" alt="Project Screenshots">
+<img src="https://github.com/RajshreeVats/Video-Call-App/blob/master/vdclls.png" alt="Project Screenshots">
 ## Tech Stack
 
  - Reactjs 
