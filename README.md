@@ -1,7 +1,7 @@
 # Video Chat App
 ## Preview
 
-<img src="" alt="Project Screenshots">
+<img src="https://github.com/RajshreeVats/Video-Call-App/blob/master/vdcll.png" alt="Project Screenshots">
 <img src="" alt="Project Screenshots">
 ## Tech Stack
 
